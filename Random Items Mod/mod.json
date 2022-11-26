@@ -1,0 +1,19 @@
+{
+  "Name": "Random Items Mod",
+  "Author": "Springles, RCsneax",
+  "Description": "Adds everything we thought of while playing People Playground.",
+  "ModVersion": "1.0",
+  "GameVersion": "1.25",
+  "ThumbnailPath": "VB.png",
+  "EntryPoint": "Mod.Mod",
+  "Tags": [
+    "Fun"
+  ],
+  "Scripts": [
+    "main.cs",
+    "CategoryBuilder.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": "2888175208"
+}
