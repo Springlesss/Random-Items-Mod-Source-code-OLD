@@ -1,5 +1,5 @@
 # Random-Items-Mod-Source-code
-The Source code of our Random Items Mod for People Playground.
+The Source code of our [Random Items Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2888175208&searchtext=random+items+mod) for People Playground.
 
 ----------------------------------------------------   
 DO NOT COPY AND PUBLISH IN ANY WAY
