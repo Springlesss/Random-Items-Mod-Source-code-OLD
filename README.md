@@ -15,6 +15,6 @@ If you have friends playing the game, please consider telling them about RIM ;)
 
 A Discord server is also work in progress (for suggestions) until then please send suggestions to Springles#5299.
 
-Happy modding and learning....
+Have fun
  
 
