@@ -7,6 +7,10 @@ THIS IS THE PROPERTY OF SPRINGLES AND RCSNEAX
 ----------------------------------------------------   
 This is for educational purposes.
 
+
+For Donations: [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J0BLEJ4)
+
+
 And thanks for downloading/checking out our mod... and coming to the github page.
 You will see the whole folder for the mod here. With textures,code and soon custom behaviour written in C#.
 I (Springles) also planned a little tutorial with tips and tricks that helped us during developing.
