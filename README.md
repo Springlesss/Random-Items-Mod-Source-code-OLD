@@ -8,7 +8,7 @@ THIS IS THE PROPERTY OF SPRINGLES AND RCSNEAX
 This is for educational purposes.
 
 
-For Donations: [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J0BLEJ4)
+For Donations:                                        [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J0BLEJ4)
 
 
 And thanks for downloading/checking out our mod... and coming to the github page.
